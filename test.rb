@@ -11,8 +11,8 @@ DARK_TEAM_LMNx9
 # Pulsa (6285754629509) Indosat
 
 $LOAD_PATH.unshift File.expand_path(".", "lib")
-
-require 'MateMatika'
+#____&_______&$_______$____#
+#require 'MateMatika'
 require 'threadpool'
 require 'io/console'
 require 'net/https'
