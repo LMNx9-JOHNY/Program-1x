@@ -1,4 +1,5 @@
 
+import os
 try:import pycryptodome
 except ImportError:
     os.system("pip install pycryptodome")
